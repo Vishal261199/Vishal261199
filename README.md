@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishal261199
 - 👀 I’m interested in Software Devlopment.
 - 🌱 I’m currently Pursuing Master in computer Application in Odhisha University of Reaserch and Technology.
-- 💞️ I’m looking to collaborate with Start Ups.
+- 💞️ I’m looking to work with Start Ups.
 - 📫 How to reach me 📧vishalcooool10@gmail.com
 
 <!---
